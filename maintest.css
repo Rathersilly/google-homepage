@@ -1,0 +1,74 @@
+
+#navwrap {
+	margin: 0px;padding:0px;
+	position: fixed;
+	width: 100%;
+}
+.navbar {
+	
+	float: right;
+	margin: 0px;padding:0px;
+	margin-right: 15px;
+}
+
+li {
+	display: inline-block;
+	padding: 5px;
+	
+	
+}
+
+
+	
+	#gmail {
+
+
+}
+#images {
+
+
+}
+
+#login {
+
+
+}
+
+
+
+img {
+	height: 200px; width: 250px;
+	display: block;
+	margin: auto;
+	padding-top: 150px;
+}
+form {
+	margin-top: 20px;
+	text-align: center;
+}
+#searchbar {
+ width: 400px;
+ }
+ #footer {
+ 	background-color: lightgrey;
+ 	bottom: 0px;
+ 	position: fixed;
+ 	width: 100%;
+ }
+ #lfoot {
+ 	display: inline-block;
+ 	}
+ #rfoot {
+ 	
+ 	display: inline-block;
+ 	float: right;
+ 	
+ 	margin-right: 15px;
+
+
+
+ }
+ li {
+ 	border: 1px solid grey;
+ 	
+ }

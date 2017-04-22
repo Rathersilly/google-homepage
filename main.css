@@ -1,0 +1,47 @@
+
+
+.navbar {
+	position: fixed;
+	display: inline-block;
+	right:0;
+	padding: 20;
+}
+
+div div {
+	display: inline-block;
+	padding: 5px;
+	
+	
+}
+
+
+	
+	#gmail {
+
+
+}
+#images {
+
+
+}
+
+#login {
+
+
+}
+
+
+
+img {
+	height: 200px; width: 250px;
+	display: block;
+	margin: auto;
+	padding-top: 150px;
+}
+form {
+	margin-top: 20px;
+	text-align: center;
+}
+#searchbar {
+ width: 400px;
+ }
